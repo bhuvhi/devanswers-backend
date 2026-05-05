@@ -62,6 +62,8 @@ Route param naming currently uses `:id` for question routes and `:answerId` for 
 ## Existing Custom Agent
 - Question testing specialist agent:
   - `.github/agents/backend-testing-agent.agent.md`
+- Answer testing specialist agent:
+  - `.github/agents/answer-testing-agent.agent.md`
 
 ## Change Checklist For Agents
 - Keep controller/service separation.
